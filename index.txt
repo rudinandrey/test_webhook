@@ -8,3 +8,5 @@ try catch webhook and refresh local files ^)
 
 
 some changes in test branch, we don't see it in our local folder!
+
+and exec git pull from other directory
